@@ -13,5 +13,5 @@ Check out the live demo [here](https://timepass45.github.io/PRODIGY_WD_02/)!
 
 ## Credits
 
-Project by [Your Name]
+Project by Sourav
 
